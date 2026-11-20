@@ -1,5 +1,5 @@
 {
-  "name": "badasswp/create-product-on-image-upload",
+  "name": "aw-ng/create-product-on-image-upload",
   "description": "Create WooCommerce products automatically by uploading images.",
   "type": "wordpress-plugin",
   "license": "GPL-2.0-or-later",
